@@ -1,4 +1,4 @@
-riaCartao('Matemática', 'Qual é a formula de Bhaskara?',' -b ± √(b² – 4ac)/2a')
+criaCartao('Matemática', 'Qual é a formula de Bhaskara?',' -b ± √(b² – 4ac)/2a')
 
 criaCartao('Fisica', 'Como se calcula a energia cinetica de um objeto?','Usamos a fórmula Ec=mv²/2')
 
