@@ -22,8 +22,8 @@ criaCartao('Matemática','Qual é a fórmula usada para calcular a Tangente?','u
 
 criaCartao('História','O que foi a guerra do contestado?','foi um conflito armado ocorrido de outubro de 1912 a agosto de 1916, que teve como partes beligerantes posseiros e pequenos proprietários de terras contra os governos dos estados de Santa Catarina e Paraná, além do Governo Federal brasileiro')
 
-criaCartao('História', 'O que foi o "Queremismo"?','Foi um movimento popular que visava trazer Getúlio Vargas de volta ')
-criaCartao('História', 'O que foi a política do café com leite"?','foi a alternância entre um governo de um candidato de Minas Gerais e outro de São Paulo')
+criaCartao('História', 'O que foi o Queremismo?','Foi um movimento popular que visava trazer Getúlio Vargas de volta ')
+criaCartao('História', 'O que foi a política do café com leite?','foi a alternância entre um governo de um candidato de Minas Gerais e outro de São Paulo')
 
 criaCartao('Biologia', 'Qual é a expressão dos genes?','É o conjunto de peocessos que permite às células codificarem as proteínas para o desenvolvimento de seus processos vitais')
 
