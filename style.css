@@ -47,6 +47,7 @@ border: 1px solid var(--destaque);
 border-radius: 6rem;
 margin: 0.6rem;
 padding: 0.6rem;
+backface-visibility: hidden;
 }
 
 .conteudo-cartao p{
