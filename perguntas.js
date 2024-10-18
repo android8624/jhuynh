@@ -35,6 +35,6 @@ criaCartao('Biologia', 'O que é anagenese?','Compreende processos pelos quais u
 
 criaCartao('Língua portuguesa', 'Quais são os dois tipos de gramática?','Normativa(norma culta) e descritiva(descreve a analisa lingua usada por um grupo de pessoas')
 
-criaCartao('Geografia', 'O que édemocracia?','É um regime de governo onde o poder de tomar decisões importantes é com os cidadãos')
+criaCartao('Geografia', 'O que é democracia?','É um regime de governo onde o poder de tomar decisões importantes é com os cidadãos')
 
 criaCartao('Biologia', 'Qual  é a principal ideia da teoria de Lamark','Que as característicasadquiridas durante a vida de um indivíduo, são passadas para seus descendentes')
