@@ -28,3 +28,9 @@ header{
 header a{
     color: var(--branco);
 }
+
+#container{
+    display: flex;
+    gap: 2rem;
+    margin: 2rem;
+}
