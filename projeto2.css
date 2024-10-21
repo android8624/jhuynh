@@ -46,3 +46,10 @@ header a{
 .conteudo-cartao:hover{
     transform: scale(1.02);
 }
+
+.resposta-cartao{
+    background-color: var(--cartão-verso);
+padding: 2rem;
+text-align: center;
+color: var(--branco);
+}
