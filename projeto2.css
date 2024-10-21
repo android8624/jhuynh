@@ -19,7 +19,7 @@ width:100%;
 text-align: center;
 }
 header{
-    display: flex;
+    display: grid;
     align-items: center;
     justify-content: space-around;
     background-color: var(--preto);
