@@ -27,6 +27,7 @@ header{
 }
 header a{
     color: var(--branco);
+    text-decoration: none;
 }
 
 #container{
