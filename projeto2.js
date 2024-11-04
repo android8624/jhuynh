@@ -16,7 +16,6 @@ function criaCartao (categoria,pergunta,resposta){
 
 container.appendChild(cartao);
 }
-
 function mostrarResposta (card){
     const resposta = card.querySelector('.resposta-cartao')
 
