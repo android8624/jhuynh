@@ -12,10 +12,10 @@ function criaCartao (categoria,pergunta,resposta){
     <p>${resposta}</p>
 </div></div>
     ` 
+
+container.appendChild(cartao);
 }
-
-
-function.mostrarResposta(card){
+function mostrarResposta(card){
     const resposta = document.querySelector('.resposta-cartao')
 
     if(resposta.style.display === 'none'){
@@ -23,4 +23,5 @@ function.mostrarResposta(card){
     }
    else(resposta.style.display === 'none')
 
+   
 }
