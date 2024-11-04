@@ -26,3 +26,4 @@ function mostrarResposta(card){
 
 
 }
+}
