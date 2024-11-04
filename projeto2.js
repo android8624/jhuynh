@@ -10,12 +10,14 @@ function criaCartao (categoria,pergunta,resposta){
 </div>
 <div class="resposta-cartao">
     <p>${resposta}</p>
-</div></div>
+</div>
+</div>
     ` 
 
 container.appendChild(cartao);
 }
-function mostrarResposta(card){
+
+function mostrarResposta (card){
     const resposta = card.querySelector('.resposta-cartao')
 
     if(resposta.style.display === 'none'){
@@ -23,7 +25,5 @@ function mostrarResposta(card){
     }
    else{
     resposta.style.display = 'none';
-
-
 }
 }
